@@ -3,6 +3,10 @@
   height: 832px;
   background-color: #404040;
   position:fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
 }
 .child{
   width: 1280px;
