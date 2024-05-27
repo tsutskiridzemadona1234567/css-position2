@@ -1,0 +1,18 @@
+.parent{
+  width: 1280px;
+  height: 832px;
+  background-color: #404040;
+  position:fixed;
+}
+.child{
+  width: 1280px;
+  height: 311px;
+  background-color: #710000;
+  position: absolute;
+  top: 0;
+}
+.img{
+  top: 209px;
+  left: 68px;
+  position:absolute;
+}
